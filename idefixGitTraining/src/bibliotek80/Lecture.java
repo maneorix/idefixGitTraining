@@ -16,7 +16,7 @@ public class Lecture {
 	}
 	
 	public String getDescription(){
-		return.this.description
+		return.this.description;
 	}
 	
 	public int getDuration(){
