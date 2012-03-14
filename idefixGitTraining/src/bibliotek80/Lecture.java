@@ -22,4 +22,6 @@ public class Lecture {
 	public int getDuration(){
 		return.this.duration;
 	}
+	
+	/*thomas var herregod*/
 }
