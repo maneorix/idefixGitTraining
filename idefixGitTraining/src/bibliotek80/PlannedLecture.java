@@ -10,7 +10,7 @@ import java.util.Date;
 public class PlannedLecture {
 	//Louise Test HALLO
 	//Test Carsten
-	//Test Rasmus
+	//Test
 	private Lecture lecture;
 	private String forum;
 	private Date calendar;
