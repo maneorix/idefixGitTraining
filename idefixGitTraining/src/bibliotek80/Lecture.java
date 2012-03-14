@@ -6,7 +6,12 @@ public class Lecture {
 	private Person lecturer;
 	private String description;
 	private int duration; 
-
+	
+	//Constructor!
+	public Lecture(){
+		
+	}
+	
 	public String getTitle(){
 		return this.title;
 	}
