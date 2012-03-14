@@ -2,6 +2,8 @@ package bibliotek80;
 
 import java.util.Date;
 
+//Hej det er Carsten der skriver
+
 public class PlannedLecture {
 	private Lecture lecture;
 	private String forum;
