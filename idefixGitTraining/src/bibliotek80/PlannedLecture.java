@@ -2,8 +2,13 @@ package bibliotek80;
 
 import java.util.Date;
 
+/**
+ * 
+ * @author Louise, Sarah, Ricco, Rasmus, Carsten
+ *
+ */
 public class PlannedLecture {
-	
+	//Louise Test HALLO
 	//Test Carsten
 	//Test
 	private Lecture lecture;
