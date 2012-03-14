@@ -11,7 +11,7 @@ public class PlannedLecture {
 	//Louise Test HALLO
 	//Test Carsten
 	//Test
-	//Test Sarah
+	//Test Sarah 
 	private Lecture lecture;
 	private String forum;
 	private Date calendar;
