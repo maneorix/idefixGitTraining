@@ -2,8 +2,9 @@ package bibliotek80;
 
 import java.util.Date;
 
-
 public class PlannedLecture {
+	
+	//Test
 	private Lecture lecture;
 	private String forum;
 	private Date calendar;
