@@ -5,7 +5,7 @@ import java.util.Date;
 public class PlannedLecture {
 	
 	//Test Carsten
-	//Test
+	//Test Rasmus
 	private Lecture lecture;
 	private String forum;
 	private Date calendar;
