@@ -3,7 +3,7 @@ package bibliotek80;
 import java.util.Date;
 
 public class PlannedLecture {
-	//Louise Test
+	//Louise Test HALLO
 	//Test Carsten
 	//Test
 	private Lecture lecture;
