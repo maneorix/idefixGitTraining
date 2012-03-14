@@ -4,6 +4,7 @@ import java.util.Date;
 
 public class PlannedLecture {
 	
+	//Test Carsten
 	//Test
 	private Lecture lecture;
 	private String forum;
