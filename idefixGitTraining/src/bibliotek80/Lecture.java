@@ -28,5 +28,5 @@ public class Lecture {
 		return this.duration;
 	}
 	
-	/*thomas var herregod*/
+	/*thomasvar herregod*/
 }
