@@ -9,7 +9,7 @@ import java.util.Date;
  */
 public class PlannedLecture {
 	//Louise Test HALLO
-	//Test Carsten
+	//Test Carsten igen!
 	//Test
 	//Test Sarah
 	private Lecture lecture;
