@@ -20,7 +20,9 @@ public class Reservation {
     
 	
 	public String toString() {
-	String s = "Dato: " + this.getDato();
+	String s = "Reservation Dato: " + this.getDato() + "<br />";
+	s += "Bog: " + this.bog + "<br />";
+	s += "Laaner: " + this.laaner + "<br />";
 	return s;
     }
 
